@@ -3,8 +3,6 @@
 A browser-based memory game inspired by the classic **Simon electronic game**.  
 Repeat the flashing color sequences to level up — how far can your memory go?
 
----
-
 ## 🎮 How to Play
 
 1. Press **any key** to start.
@@ -13,7 +11,6 @@ Repeat the flashing color sequences to level up — how far can your memory go?
 4. With each level, a new color is added to the sequence.
 5. Make a mistake? The game ends and you can start again.
 
----
 
 ## ✨ Features
 
@@ -22,15 +19,11 @@ Repeat the flashing color sequences to level up — how far can your memory go?
 - Game over detection and restart mechanism
 - Fully responsive design using only HTML, CSS, and JS
 
----
-
 ## 🔧 Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-
----
 
 ## 📸 Screenshots
 
@@ -44,9 +37,5 @@ Repeat the flashing color sequences to level up — how far can your memory go?
   <img src="./photo3.png" alt="Simon Game Over" width="200"/>
 </p>
 
----
 
-## 🚀 Live Demo
-
-[🔗 Click here to play](https://ikshasingh.github.io/simon-game/)  
 
