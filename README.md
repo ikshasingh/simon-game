@@ -18,7 +18,7 @@ Repeat the flashing color sequences to level up — how far can your memory go?
 ## ✨ Features
 
 - Level-based increasing difficulty
-- Button click animations and sound effects
+- Button click animations
 - Game over detection and restart mechanism
 - Fully responsive design using only HTML, CSS, and JS
 
@@ -49,9 +49,4 @@ Repeat the flashing color sequences to level up — how far can your memory go?
 ## 🚀 Live Demo
 
 [🔗 Click here to play](https://ikshasingh.github.io/simon-game/)  
-*(Replace with your actual GitHub Pages deployment URL)*
-
----
-
-## 📁 Folder Structure
 
